@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="otoparkModelStoreContainer" CdmEntityContainer="otoparkEntities">
+    <EntitySetMapping Name="AracTakip">
+      <EntityTypeMapping TypeName="otoparkModel.AracTakip">
+        <MappingFragment StoreEntitySet="AracTakip">
+          <ScalarProperty Name="AracID" ColumnName="AracID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="musteri">
+      <EntityTypeMapping TypeName="otoparkModel.musteri">
+        <MappingFragment StoreEntitySet="musteri">
+          <ScalarProperty Name="MusteriID" ColumnName="MusteriID" />
+          <ScalarProperty Name="MusteriTc" ColumnName="MusteriTc" />
+          <ScalarProperty Name="MusteriAd" ColumnName="MusteriAd" />
+          <ScalarProperty Name="MusteriSoyad" ColumnName="MusteriSoyad" />
+          <ScalarProperty Name="MusteriTelefon" ColumnName="MusteriTelefon" />
+          <ScalarProperty Name="AracPlaka" ColumnName="AracPlaka" />
+          <ScalarProperty Name="AracMarka" ColumnName="AracMarka" />
+          <ScalarProperty Name="Konumu" ColumnName="Konumu" />
+          <ScalarProperty Name="Tarih" ColumnName="Tarih" />
+          <ScalarProperty Name="AracUcret" ColumnName="AracUcret" />
+          <ScalarProperty Name="AracID" ColumnName="AracID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="yonetici">
+      <EntityTypeMapping TypeName="otoparkModel.yonetici">
+        <MappingFragment StoreEntitySet="yonetici">
+          <ScalarProperty Name="yoneticiID" ColumnName="yoneticiID" />
+          <ScalarProperty Name="yoneticiAdSoyad" ColumnName="yoneticiAdSoyad" />
+          <ScalarProperty Name="parola" ColumnName="parola" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

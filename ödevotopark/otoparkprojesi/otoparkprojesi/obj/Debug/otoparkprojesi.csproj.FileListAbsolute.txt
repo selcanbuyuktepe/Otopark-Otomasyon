@@ -1,0 +1,148 @@
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\csc.exe
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\vbc.exe
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\otoparkprojesi.dll.config
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\otoparkprojesi.dll
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\otoparkprojesi.pdb
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\EntityFramework.dll
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\EntityFramework.SqlServer.dll
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Helpers.dll
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Mvc.dll
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Razor.dll
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Webpages.dll
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Webpages.Razor.dll
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\EntityFramework.xml
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\EntityFramework.SqlServer.xml
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Razor.xml
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Webpages.xml
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Webpages.Razor.xml
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Helpers.xml
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Mvc.xml
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\obj\Debug\otoparkprojesi.dll
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\obj\Debug\otoparkprojesi.pdb
+C:\Users\berri\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\obj\Debug\otoparkprojesi.csprojResolveAssemblyReference.cache
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\csc.exe
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\System.Collections.Immutable.dll
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\System.Reflection.Metadata.dll
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\vbc.exe
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\VBCSCompiler.exe
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\VBCSCompiler.exe.config
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\otoparkprojesi.dll.config
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\otoparkprojesi.dll
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\otoparkprojesi.pdb
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\EntityFramework.dll
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\EntityFramework.SqlServer.dll
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\Microsoft.Web.Infrastructure.dll
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Helpers.dll
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Mvc.dll
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Razor.dll
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Webpages.Deployment.dll
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Webpages.dll
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Webpages.Razor.dll
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\EntityFramework.xml
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\EntityFramework.SqlServer.xml
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Razor.xml
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Webpages.xml
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Webpages.Deployment.xml
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Webpages.Razor.xml
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Helpers.xml
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Mvc.xml
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\obj\Debug\otoparkprojesi.csprojResolveAssemblyReference.cache
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\obj\Debug\otoparkprojesi.dll
+F:\ödevotopark\otoparkprojesi\otoparkprojesi\obj\Debug\otoparkprojesi.pdb
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\csc.exe
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\vbc.exe
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\otoparkprojesi.dll.config
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\otoparkprojesi.dll
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\otoparkprojesi.pdb
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\EntityFramework.dll
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\EntityFramework.SqlServer.dll
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Helpers.dll
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Mvc.dll
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Razor.dll
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Webpages.dll
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Webpages.Razor.dll
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\EntityFramework.xml
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\EntityFramework.SqlServer.xml
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Razor.xml
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Webpages.xml
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Webpages.Razor.xml
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Helpers.xml
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Mvc.xml
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\obj\Debug\otoparkprojesi.csprojResolveAssemblyReference.cache
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\obj\Debug\otoparkprojesi.dll
+C:\Users\SELCAN BÜYÜKTEPE\Desktop\ödevotopark\otoparkprojesi\otoparkprojesi\obj\Debug\otoparkprojesi.pdb
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\csc.exe
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\vbc.exe
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\otoparkprojesi.dll.config
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\otoparkprojesi.dll
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\otoparkprojesi.pdb
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\EntityFramework.dll
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\EntityFramework.SqlServer.dll
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Helpers.dll
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Mvc.dll
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Razor.dll
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Webpages.dll
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Webpages.Razor.dll
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\EntityFramework.xml
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\EntityFramework.SqlServer.xml
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Razor.xml
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Webpages.xml
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Webpages.Razor.xml
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Helpers.xml
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\bin\System.Web.Mvc.xml
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\obj\Debug\otoparkprojesi.csprojResolveAssemblyReference.cache
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\obj\Debug\otoparkprojesi.dll
+C:\Users\SELCAN BÜYÜKTEPE\Documents\ödevotopark\otoparkprojesi\otoparkprojesi\obj\Debug\otoparkprojesi.pdb

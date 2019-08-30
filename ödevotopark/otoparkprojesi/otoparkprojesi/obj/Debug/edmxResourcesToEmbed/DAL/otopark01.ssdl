@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="otoparkModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="AracTakip">
+    <Key>
+      <PropertyRef Name="AracID" />
+    </Key>
+    <Property Name="AracID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="musteri">
+    <Key>
+      <PropertyRef Name="MusteriID" />
+    </Key>
+    <Property Name="MusteriID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MusteriTc" Type="nchar" MaxLength="11" />
+    <Property Name="MusteriAd" Type="nchar" MaxLength="10" />
+    <Property Name="MusteriSoyad" Type="nchar" MaxLength="50" />
+    <Property Name="MusteriTelefon" Type="nchar" MaxLength="11" />
+    <Property Name="AracPlaka" Type="nchar" MaxLength="10" />
+    <Property Name="AracMarka" Type="nchar" MaxLength="50" />
+    <Property Name="Konumu" Type="nchar" MaxLength="2" />
+    <Property Name="Tarih" Type="datetime" />
+    <Property Name="AracUcret" Type="nchar" MaxLength="2" />
+    <Property Name="AracID" Type="int" />
+  </EntityType>
+  <EntityType Name="yonetici">
+    <Key>
+      <PropertyRef Name="yoneticiID" />
+    </Key>
+    <Property Name="yoneticiID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="yoneticiAdSoyad" Type="nvarchar" MaxLength="50" />
+    <Property Name="parola" Type="nchar" MaxLength="6" />
+  </EntityType>
+  <Association Name="FK_musteri_AracTakip">
+    <End Role="AracTakip" Type="Self.AracTakip" Multiplicity="0..1" />
+    <End Role="musteri" Type="Self.musteri" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AracTakip">
+        <PropertyRef Name="AracID" />
+      </Principal>
+      <Dependent Role="musteri">
+        <PropertyRef Name="AracID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="otoparkModelStoreContainer">
+    <EntitySet Name="AracTakip" EntityType="Self.AracTakip" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="musteri" EntityType="Self.musteri" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="yonetici" EntityType="Self.yonetici" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_musteri_AracTakip" Association="Self.FK_musteri_AracTakip">
+      <End Role="AracTakip" EntitySet="AracTakip" />
+      <End Role="musteri" EntitySet="musteri" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

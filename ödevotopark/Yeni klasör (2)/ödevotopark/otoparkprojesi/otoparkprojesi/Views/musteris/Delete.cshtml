@@ -1,0 +1,100 @@
+﻿@model otoparkprojesi.DAL.musteri
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h3>MÜŞTERİ SİLİNSİN Mİ</h3>
+<div>
+    <hr />
+    <diV class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.MusteriTc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MusteriTc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MusteriAd)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MusteriAd)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MusteriSoyad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MusteriSoyad)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MusteriTelefon)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MusteriTelefon)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AracPlaka)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AracPlaka)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AracMarka)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AracMarka)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Konumu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Konumu)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tarih)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tarih)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AracUcret)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AracUcret)
+        </dd>
+
+        
+
+       
+
+    </diV>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <!----><div class="form-actions no-color">
+            <!----><input type="submit" class="btn btn-default"/> 
+            @Html.ActionLink("Geri Dön", "Index")
+        <!----></div>
+        <div class="row">
+            <button type="submit" value="delete" title="sil">sil </button>
+        </div>
+    }
+</div>

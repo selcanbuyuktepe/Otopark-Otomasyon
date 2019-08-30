@@ -1,0 +1,36 @@
+﻿@model otoparkprojesi.DAL.yonetici
+@{
+    ViewBag.Title = "GİRİS";
+}
+
+<h5>@ViewBag.HATA</h5>
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>HOŞGELDİNİZ</h4>
+        <h4>Sistem Giriş Sayfası</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.yoneticiAdSoyad, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.yoneticiAdSoyad, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.yoneticiAdSoyad, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.parola, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => Model.parola,new { htmlAttributes =new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.parola, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Giris Yap" class="btn btn-default"style="background: #ffcc99" />
+            </div>
+        </div>
+}

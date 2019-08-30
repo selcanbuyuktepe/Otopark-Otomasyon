@@ -1,0 +1,91 @@
+﻿@model otoparkprojesi.DAL.musteri
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Müşteri Bilgileri Raporlama</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.MusteriTc)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MusteriTc)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MusteriAd)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MusteriAd)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MusteriSoyad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MusteriSoyad)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.MusteriTelefon)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.MusteriTelefon)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AracPlaka)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AracPlaka)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AracMarka)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AracMarka)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Konumu)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Konumu)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tarih)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tarih)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AracUcret)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AracUcret)
+        </dd>
+
+        
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.MusteriID }) |
+    @Html.ActionLink("Geri Dön", "Index")
+</p>

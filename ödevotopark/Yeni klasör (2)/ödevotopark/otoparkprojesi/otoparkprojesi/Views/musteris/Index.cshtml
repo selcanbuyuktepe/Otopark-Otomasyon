@@ -1,0 +1,82 @@
+﻿@model IEnumerable<otoparkprojesi.DAL.musteri>
+
+@{
+    ViewBag.Title ="Index";
+}
+<p>
+    @Html.ActionLink("Yeni Müşteri Ekle", "Create")
+    
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.MusteriTc)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MusteriAd)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MusteriSoyad)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MusteriTelefon)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AracPlaka)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AracMarka)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Konumu)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Tarih)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AracUcret)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.MusteriTc)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MusteriAd)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MusteriSoyad)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MusteriTelefon)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AracPlaka)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AracMarka)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Konumu)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Tarih)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AracUcret)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AracTakip.AracID)
+        </td>
+        <td>
+            @Html.ActionLink("Güncelle", "Edit", new { id = item.MusteriID }) 
+            @Html.ActionLink("Raporla", "Details", new { id=item.MusteriID }) 
+            @Html.ActionLink("Sil", "Delete", new { id=item.MusteriID })      
+        </td>
+    </tr>
+}
+    
+</table>

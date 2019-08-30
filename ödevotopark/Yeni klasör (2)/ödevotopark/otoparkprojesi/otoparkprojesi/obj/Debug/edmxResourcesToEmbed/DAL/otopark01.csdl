@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="otoparkModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="AracTakip">
+    <Key>
+      <PropertyRef Name="AracID" />
+    </Key>
+    <Property Name="AracID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="musteri" Relationship="Self.FK_musteri_AracTakip" FromRole="AracTakip" ToRole="musteri" />
+  </EntityType>
+  <EntityType Name="musteri">
+    <Key>
+      <PropertyRef Name="MusteriID" />
+    </Key>
+    <Property Name="MusteriID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MusteriTc" Type="String" MaxLength="11" FixedLength="true" Unicode="true" />
+    <Property Name="MusteriAd" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="MusteriSoyad" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="MusteriTelefon" Type="String" MaxLength="11" FixedLength="true" Unicode="true" />
+    <Property Name="AracPlaka" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+    <Property Name="AracMarka" Type="String" MaxLength="50" FixedLength="true" Unicode="true" />
+    <Property Name="Konumu" Type="String" MaxLength="2" FixedLength="true" Unicode="true" />
+    <Property Name="Tarih" Type="DateTime" Precision="3" />
+    <Property Name="AracUcret" Type="String" MaxLength="2" FixedLength="true" Unicode="true" />
+    <Property Name="AracID" Type="Int32" />
+    <NavigationProperty Name="AracTakip" Relationship="Self.FK_musteri_AracTakip" FromRole="musteri" ToRole="AracTakip" />
+  </EntityType>
+  <EntityType Name="yonetici">
+    <Key>
+      <PropertyRef Name="yoneticiID" />
+    </Key>
+    <Property Name="yoneticiID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="yoneticiAdSoyad" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="parola" Type="String" MaxLength="6" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <Association Name="FK_musteri_AracTakip">
+    <End Role="AracTakip" Type="Self.AracTakip" Multiplicity="0..1" />
+    <End Role="musteri" Type="Self.musteri" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AracTakip">
+        <PropertyRef Name="AracID" />
+      </Principal>
+      <Dependent Role="musteri">
+        <PropertyRef Name="AracID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="otoparkEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="AracTakip" EntityType="Self.AracTakip" />
+    <EntitySet Name="musteri" EntityType="Self.musteri" />
+    <EntitySet Name="yonetici" EntityType="Self.yonetici" />
+    <AssociationSet Name="FK_musteri_AracTakip" Association="Self.FK_musteri_AracTakip">
+      <End Role="AracTakip" EntitySet="AracTakip" />
+      <End Role="musteri" EntitySet="musteri" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
